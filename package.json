@@ -10,6 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@lg2/react-native-eddystone": "^0.1.5",
     "react": "16.13.1",
     "react-native": "0.63.4"
   },
